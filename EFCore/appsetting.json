@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SQLServerConnection": "Server=localhost;Database=efcore_test;User Id=sa;Password=caseyyang13;TrustServerCertificate=True;"
+  }
+}
+ 
